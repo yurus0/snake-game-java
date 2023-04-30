@@ -1,5 +1,8 @@
 # snake-game-java
-a classic snake game using Java Swing Framework.
+A classic snake game using Java Swing Framework.
+The simplest way to launch the game is to download the source code and launch it using your IDE.
+
+## What the game looks like
 ### Launch screen
 
 ![Alt text](https://github.com/yurus0/snake-game-java/blob/main/screenshots/Screen%20Shot%202023-04-30%20at%202.34.24%20PM.png)
